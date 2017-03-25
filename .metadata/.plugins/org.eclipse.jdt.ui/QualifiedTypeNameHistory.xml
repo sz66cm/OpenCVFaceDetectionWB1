@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.opencv.core.Mat"/>
+<fullyQualifiedTypeName name="android.graphics.Bitmap.Config"/>
+<fullyQualifiedTypeName name="org.opencv.core.Scalar"/>
+<fullyQualifiedTypeName name="org.opencv.core.Rect"/>
+<fullyQualifiedTypeName name="android.graphics.BitmapFactory"/>
+<fullyQualifiedTypeName name="android.graphics.BitmapFactory.Options"/>
+<fullyQualifiedTypeName name="org.opencv.core.CvType"/>
+<fullyQualifiedTypeName name="org.opencv.android.Utils"/>
+<fullyQualifiedTypeName name="org.opencv.android.JavaCameraView"/>
+<fullyQualifiedTypeName name="org.opencv.samples.facedetect.R.id"/>
+<fullyQualifiedTypeName name="org.opencv.samples.facedetect.R.drawable"/>
+</qualifiedTypeNameHistroy>

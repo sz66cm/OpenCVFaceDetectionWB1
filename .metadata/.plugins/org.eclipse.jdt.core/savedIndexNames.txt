@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+/Users/cm/Developing/workplaceopencv/.metadata/.plugins/org.eclipse.jdt.core
+493348007.index
+1933374083.index
+3339431747.index
+1935503867.index
+4277476499.index

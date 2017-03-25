@@ -1,0 +1,11 @@
+---- n_VideoCapture Matches (10 in 2 files) ----
+highgui+VideoCapture.java (d:\360downloads\opencv-2.4.11\modules\java\generator\src\java):        nativeObj = n_VideoCapture();
+highgui+VideoCapture.java (d:\360downloads\opencv-2.4.11\modules\java\generator\src\java):        nativeObj = n_VideoCapture(device);
+highgui+VideoCapture.java (d:\360downloads\opencv-2.4.11\modules\java\generator\src\java):    private static native long n_VideoCapture();
+highgui+VideoCapture.java (d:\360downloads\opencv-2.4.11\modules\java\generator\src\java):    private static native long n_VideoCapture(java.lang.String filename);
+highgui+VideoCapture.java (d:\360downloads\opencv-2.4.11\modules\java\generator\src\java):    private static native long n_VideoCapture(int device);
+VideoCapture.java (d:\360downloads\opencv-android-sdk\sdk\java\src\org\opencv\highgui):        nativeObj = n_VideoCapture();
+VideoCapture.java (d:\360downloads\opencv-android-sdk\sdk\java\src\org\opencv\highgui):        nativeObj = n_VideoCapture(device);
+VideoCapture.java (d:\360downloads\opencv-android-sdk\sdk\java\src\org\opencv\highgui):    private static native long n_VideoCapture();
+VideoCapture.java (d:\360downloads\opencv-android-sdk\sdk\java\src\org\opencv\highgui):    private static native long n_VideoCapture(java.lang.String filename);
+VideoCapture.java (d:\360downloads\opencv-android-sdk\sdk\java\src\org\opencv\highgui):    private static native long n_VideoCapture(int device);
